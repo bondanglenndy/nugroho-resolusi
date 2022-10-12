@@ -4,6 +4,7 @@ RENCANA PENJUALAN NUGROHO'S
 * Foto
 * Logo
  ^Foto toko
+ ^Halaman depan
 -Isi Web
 -Biodata Penjual
 -Link Penjualan

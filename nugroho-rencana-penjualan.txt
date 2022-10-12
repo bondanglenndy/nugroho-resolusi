@@ -3,7 +3,10 @@ RENCANA PENJUALAN NUGROHO'S
 -Desain logo
 * Foto
 * Logo
+ ^Foto toko
 -Isi Web
 -Biodata Penjual
 -Link Penjualan
+ ^Link online
 -Vlog
+-Halaman member

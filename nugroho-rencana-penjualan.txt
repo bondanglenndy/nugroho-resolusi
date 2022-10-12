@@ -4,5 +4,6 @@ RENCANA PENJUALAN NUGROHO'S
 * Foto
 * Logo
 -Isi Web
+-Biodata Penjual
 -Link Penjualan
 -Vlog

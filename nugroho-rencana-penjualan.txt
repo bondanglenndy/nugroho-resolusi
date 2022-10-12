@@ -3,9 +3,8 @@ RENCANA PENJUALAN NUGROHO'S
 -Desain logo
 * Foto
 * Logo
-^Animasi
-^Foto perusahaan
 -Isi Web
 ^Tentang Perusahaan
 -Biodata Penjual
 -Link Penjualan
+
